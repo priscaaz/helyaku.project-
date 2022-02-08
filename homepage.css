@@ -1,0 +1,308 @@
+.black{
+    background-color: black;
+}
+
+.logo{
+    position: relative;
+    left: 62px;
+    top: 20px;
+}
+
+.name{
+    text-decoration: none;
+    color: white;
+    position:relative;
+    left: 80px;
+    top:20px;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.home{
+    text-decoration: none;
+    color: white;
+    position:relative;
+    left:332px;
+    top:20px;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.about{
+    text-decoration: none;
+    color: white;
+    position:relative;
+    left:446px;
+    top:20px;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.map1{
+    text-decoration: none;
+    color: white;
+    position:relative;
+    left:552px;
+    top:20px;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+
+.profile{
+    text-decoration: none;
+    color: white;
+    position:relative;
+    left: 640px;
+    top:20px;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.signin{
+    text-decoration: none;
+    color: white;
+    position:relative;
+    left:886px;
+    top:20px;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.login{
+    position:relative;
+    left:910px;
+    top:20px;
+
+   
+    width: 173px;
+    height: 47px;
+   
+    
+    background: black;
+    border-radius: 50px;
+    border: 2px solid white; 
+    color:white;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.heroimage{
+    position:relative;
+    left: 50px;
+    top:150px;
+   width: 1500px;
+   height: 500px;
+}
+
+.hero-text{
+    color: white;
+    text-align: center;
+    position:relative;
+    top: 190px;
+    font-family: 'Times New Roman', Times, serif;
+
+}
+
+.account{
+    color:black;
+    background-color:white;
+
+    
+    width: 173px;
+    height: 47px;
+
+    border-radius: 50px;
+   position: relative;
+   top: 200px;
+   left: 670px;
+   
+    
+}
+
+.star-green{
+    position:relative;
+    left: 130px;
+
+
+}
+
+.star-blue{
+    position: relative;
+    left: 170px;
+    top: 180px;
+}
+
+.star-yellow{
+    position: relative;
+    left: 1240px;
+}
+
+
+.star-babyblue{
+    position:relative;
+    left: 990px;
+    top: 180px;
+}
+
+
+
+
+
+
+
+.map{
+    position:relative;
+    top:500px;
+    left:100px;
+}
+
+.feature{
+    color: white;
+    position:relative;
+    left: 900px;
+    top:200px;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.para{
+    color: white;
+    position:relative;
+    left: 800px;
+    top:205px;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.search-icon{
+    position:relative;
+    left:690px;
+    top:210px;
+}
+
+.search-text{
+    position:relative;
+    left:799px;
+    top: 130px;
+    color:white;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+
+.alarm-icon{
+    position: relative;
+    left: 1100px;
+    top:50px;
+    }
+
+    
+    .alarm-text{
+        color:white;
+        position: relative;
+        left: 1200px;
+        bottom: 5px;
+        font-family: 'Times New Roman', Times, serif;
+    }
+
+    
+    
+    .message-icon{
+        position: relative;
+        left: 690px;
+        top: 30px;
+    }
+    
+   
+    .message-text{
+        color:white;
+        position: relative;
+        left: 799px;
+        bottom:40px;
+        font-family: 'Times New Roman', Times, serif;
+    }
+
+  
+    .location-icon{
+        position: relative;
+        left:1100px;
+        bottom:100px;
+
+    }
+
+    .location-text{
+        color:white;
+        position: relative;
+        left: 1200px;
+        bottom: 159px;
+        font-family: 'Times New Roman', Times, serif;
+    }
+
+
+    .section3-text{
+        color:white;
+        position:relative;
+        left: 100px;
+        top: 150px;
+        font-family: 'Times New Roman', Times, serif;
+    }
+
+   
+    .section3-para{
+        color:white;
+        position: relative;
+        left:100px;
+        top:160px;
+        font-family: 'Times New Roman', Times, serif;
+    }
+
+
+    .section3-button{
+        background-color: white;
+        position: relative;
+        left:100px;
+        top: 200px;
+
+         
+    width: 173px;
+    height: 47px;
+   border-radius: 50px;
+   font-family: 'Times New Roman', Times, serif;
+    }
+
+   
+    .section-image{
+        position: relative;
+         left: 900px;
+    }
+
+
+    .footer-text{
+        color: white;
+        position:absolute;
+        left: 550px;
+        top: 2700px;
+        font-family: 'Allerta Stencil', sans-serif;
+        font-size: 100px;
+    }
+
+    
+    .footer-para{
+        color: white;
+        position: relative;
+        left: 270px;
+        top: 280px;
+        font-family: 'Times New Roman', Times, serif;
+
+
+    }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

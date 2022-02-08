@@ -1,0 +1,39 @@
+.navbar{
+  background-color: black;
+}
+
+
+.home1{
+  color: white;
+  position:relative;
+  text-decoration: none;
+  bottom:790px;
+  left:190px;
+}
+
+
+.about2{
+  color: white;
+  position:relative;
+  text-decoration: none;
+  bottom:790px;
+  left:240px;
+}
+
+
+.profile3{
+  color: white;
+  position:relative;
+  text-decoration: none;
+  bottom:790px;
+  left:280px;
+}
+
+
+.navbar-brand{
+  position: relative;
+  right: 520px;
+
+}
+
+

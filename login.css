@@ -1,0 +1,119 @@
+.logo{
+    
+position: absolute;
+width: 73px;
+height: 23px;
+left: 130px;
+top: 40px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: bold;
+font-size: 20px;
+line-height: 23px;
+
+color: black;
+
+} 
+
+
+.reminder{
+    position:absolute;
+    color:black;
+    left: 1200px;
+    top:40px;
+} 
+
+
+
+
+
+
+
+
+
+input[type=text] {
+    padding:10px;
+    margin:10px 0; 
+    padding:10px;
+    border:0;
+    box-shadow:0 0 15px 4px rgba(0,0,0,0.06);
+    padding:10px;
+  border-radius:10px;
+  width: 300px;
+  font-family:inherit;
+  font-size: inherit;
+  margin-top: 200px;
+  margin-left: 530px;
+  }
+
+  input[type=password] {
+    padding:10px;
+    margin:10px 0; 
+    padding:10px;
+    border:0;
+    box-shadow:0 0 15px 4px rgba(0,0,0,0.06);
+    padding:10px;
+  border-radius:10px;
+  width: 300px;
+  font-family:inherit;
+  font-size: inherit;
+  margin-left:530px;
+}
+
+
+
+
+
+.submit-button{
+    
+position: absolute;
+width: 183px;
+height: 51px;
+left: 614px;
+top: 355px;
+
+background: black;
+border-radius: 20px;
+color: white;
+}  
+
+.option{
+
+position: absolute;
+width: 141px;
+height: 35px;
+left: 652px;
+top: 428px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 12px;
+line-height: 14px;
+
+color: #000000;
+}  
+
+.blue-sign{
+position: absolute;
+width: 141px;
+height: 35px;
+left: 652px;
+top: 440px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 12px;
+line-height: 14px;
+
+color: #0099FF;
+}
+    
+
+.logo-login{
+  position:absolute;
+  top:40px;
+  left:50px;
+}
